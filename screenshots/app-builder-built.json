@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "C-137 Sovereign Portal",
+      "hasCanvas": false,
+      "bodyTextLen": 375,
+      "bodyTextHash": "49fee6db5f7060d189421179758749fc60651128ee0df1829e839751fc744550",
+      "bodyTextPrefix": "SOVEREIGN C-137 PORTAL Talk to your twin. Tri-modal intelligence",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "C-137 Sovereign Portal",
+      "hasCanvas": false,
+      "bodyTextLen": 367,
+      "bodyTextHash": "ac6f689747c28af74220959ccac7dcfe46da25bbf442767978e97886dd3d9d4c",
+      "bodyTextPrefix": "SOVEREIGN C-137 PORTAL Talk to your twin. Tri-modal intelligence",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
